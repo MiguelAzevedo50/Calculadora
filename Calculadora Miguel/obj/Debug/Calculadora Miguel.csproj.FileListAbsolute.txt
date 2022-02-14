@@ -1,0 +1,10 @@
+C:\dev\Calculadora Miguel\Calculadora Miguel\bin\Debug\Calculadora Miguel.exe.config
+C:\dev\Calculadora Miguel\Calculadora Miguel\bin\Debug\Calculadora Miguel.exe
+C:\dev\Calculadora Miguel\Calculadora Miguel\bin\Debug\Calculadora Miguel.pdb
+C:\dev\Calculadora Miguel\Calculadora Miguel\obj\Debug\Calculadora Miguel.csproj.AssemblyReference.cache
+C:\dev\Calculadora Miguel\Calculadora Miguel\obj\Debug\Calculadora_Miguel.Form1.resources
+C:\dev\Calculadora Miguel\Calculadora Miguel\obj\Debug\Calculadora_Miguel.Properties.Resources.resources
+C:\dev\Calculadora Miguel\Calculadora Miguel\obj\Debug\Calculadora Miguel.csproj.GenerateResource.cache
+C:\dev\Calculadora Miguel\Calculadora Miguel\obj\Debug\Calculadora Miguel.csproj.CoreCompileInputs.cache
+C:\dev\Calculadora Miguel\Calculadora Miguel\obj\Debug\Calculadora Miguel.exe
+C:\dev\Calculadora Miguel\Calculadora Miguel\obj\Debug\Calculadora Miguel.pdb
